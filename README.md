@@ -18,7 +18,13 @@ The top section of the dashboard focuses on the "Pulse" of the business. It prov
 This KPI card tracks the total number of orders placed in the selected year. It calculates the **Percentage Growth** compared to the previous year to measure market demand.
 *   **Trend Analysis:** A monthly sparkline/chart visualizes seasonality, showing peak ordering months versus quiet periods.
 
-![Orders KPI Screenshot](docs/orders_kpi.png)
+- Display a summary of:
+  - **Total Orders**
+   <p align="left">
+  <img src="/docs/orders_kpi.png" alt="orders_kpi.png" width="350"/>
+  </p>
+
+
 
 ### 🔹 Total Sales Revenue
 **What this shows:**
@@ -26,7 +32,11 @@ A critical look at the top-line revenue. This section displays the total Dollar 
 *   **Growth Metric:** It highlights the YoY revenue growth (or decline) percentage.
 *   **Monthly Trend:** The trendline helps identify if revenue spikes align with marketing campaigns or holiday seasons.
 
-![Sales KPI Screenshot](docs/sales_kpi.png)
+  - **Total Sales**
+   <p align="left">
+  <img src="/docs/sales_kpi.png" alt="sales_kpi.png" width="350"/>
+  </p>
+
 
 ### 🔹 Profitability & Margins
 **What this shows:**
@@ -34,7 +44,11 @@ Revenue is vanity, profit is sanity. This KPI focuses on the actual bottom line 
 *   **Comparison:** It compares current year profit against the previous year.
 *   **Trend:** The monthly trend reveals if the business is becoming more efficient or if margins are slipping during specific months.
 
-![Profit KPI Screenshot](revenue_kpi.png)
+  - **Total Revenue**
+   <p align="left">
+  <img src="/docs/revenue_kpi.png" alt="revenue_kpi.png" width="350"/>
+  </p>
+
 
 ---
 
@@ -44,9 +58,16 @@ Revenue is vanity, profit is sanity. This KPI focuses on the actual bottom line 
 **The Insight:**
 This visualization answers the question: *"Are our high-volume products actually making money?"*
 It plots Sub-Categories to see the relationship between how much we sell (Sales) and how much we make (Profit). This helps identify "Loss Leaders" (high sales, low/negative profit) versus "Star Products" (high sales, high profit).
+  - **Revenue By Sub-Category**
+   <p align="left">
+  <img src="/docs/profit_by_subcategory.png" alt="profit_by_subcategory.png" width="350"/>
+  </p>
 
-![Sub-Category Comparison Screenshot](docs/revenue_by_sybcategory.png)
-![Sub-Category Comparison Screenshot1](docs/sales_by_sybcategory.png)
+  - **Sales By Sub-Category**
+   <p align="left">
+  <img src="/docs/sales_by_subcategory" alt="sales_by_subcategory.png" width="350"/>
+  </p>
+
 
 ---
 
@@ -60,24 +81,36 @@ This looks at the *percentage* of orders that come back.
 *   **YoY Growth:** Are customers returning items more frequently this year than last year?
 *   **Monthly Comparison:** The chart compares the Return Rate of the current year vs. the previous year, month by month, to spot quality control issues or seasonal dissatisfaction.
 
-![Return Rate Screenshot](docs/return_rate_kpi.png)
+  - **Return Rate**
+   <p align="left">
+  <img src="/docs/return_rate_kpi.png" alt="return_rate_kpi.png" width="350"/>
+  </p>
+
 
 ### 🔹 Return Volume (Count) Analysis
 **The Metric:** Raw count of returned items.
 **The Insight:**
 While the *rate* is important, the *volume* impacts logistics. This visual tracks the exact number of returns.
 *   **Trend:** Compares the raw number of returns this year vs. last year on a monthly basis, helping the warehouse team anticipate workload.
-
-![Return Count Screenshot](docs/return_kpi.png)
+  - **Return Volume**
+   <p align="left">
+  <img src="/docs/return_kpi.png" alt="return_kpi.png" width="350"/>
+  </p>
 
 ### 🔹 Returns by Sub-Category
 **The Insight:**
 Which specific products are failing? This visual breaks down both the **Number of Returns** and the **Return Rate** by Sub-Category.
 *   *Example:* If "Binders" have a low return rate but "Tables" have a high one, management knows to investigate the quality or shipping method for Tables.
 
-![Sub-Category Returns Screenshot](return_by_subcategory)
-![Sub-Category Returns Screenshot1](return_rate_by_subcategory)
-
+  - **Return-Rate By Sub-Category**
+   <p align="left">
+  <img src="/docs/return_rate_by_subcategory.png" alt="return_rate_by_subcategory.png" width="350"/>
+  </p>
+  
+  - **Return By Sub-Category**
+   <p align="left">
+  <img src="/docs/return_by_subcategory.png" alt="return_by_subcategory.png" width="350"/>
+  </p>
 ---
 
 ## ⚙️ Interactivity & Dynamics
@@ -87,6 +120,23 @@ This dashboard is not a static PDF. It is built to be explored:
 1.  **Yearly Selection:** The entire report changes based on the specific year selected, automatically recalculating "Previous Year" benchmarks.
 2.  **Regional Filtering:** Users can drill down into specific regions (East, West, Central, South) to see if returns or sales issues are localized.
 3.  **Category Filtering:** Isolate "Technology," "Furniture," or "Office Supplies" to see specific trends.
+
+---
+
+## 📊 The Dashboard
+
+*(Here is a preview of the main interactive report)*
+
+  - **Sales KPIs Dashboard**
+   <p align="left">
+  <img src="/docs/sales_kpis_dashboard.png" alt="sales_kpis_dashboard.png" width="500"/>
+  </p>
+
+  - **Returns KPIs Dashboard**
+   <p align="left">
+  <img src="/docs/returns_kpis_dashboard.png" alt="returns_kpis_dashboard.png" width="500"/>
+  </p>
+
 
 ---
 
