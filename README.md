@@ -21,7 +21,7 @@ This KPI card tracks the total number of orders placed in the selected year. It 
 - Display a summary of:
   - **Total Orders**
    <p align="left">
-  <img src="/docs/orders_kpi.png" alt="orders_kpi.png" width="350"/>
+  <img src="/docs/orders_kpi.PNG" alt="orders_kpi.PNG" width="350"/>
   </p>
 
 
@@ -34,7 +34,7 @@ A critical look at the top-line revenue. This section displays the total Dollar 
 
   - **Total Sales**
    <p align="left">
-  <img src="/docs/sales_kpi.png" alt="sales_kpi.png" width="350"/>
+  <img src="/docs/sales_kpi.PNG" alt="sales_kpi.PNG" width="350"/>
   </p>
 
 
@@ -46,7 +46,7 @@ Revenue is vanity, profit is sanity. This KPI focuses on the actual bottom line 
 
   - **Total Revenue**
    <p align="left">
-  <img src="/docs/revenue_kpi.png" alt="revenue_kpi.png" width="350"/>
+  <img src="/docs/revenue_kpi.PNG" alt="revenue_kpi.PNG" width="350"/>
   </p>
 
 
@@ -60,12 +60,12 @@ This visualization answers the question: *"Are our high-volume products actually
 It plots Sub-Categories to see the relationship between how much we sell (Sales) and how much we make (Profit). This helps identify "Loss Leaders" (high sales, low/negative profit) versus "Star Products" (high sales, high profit).
   - **Revenue By Sub-Category**
    <p align="left">
-  <img src="/docs/profit_by_subcategory.png" alt="profit_by_subcategory.png" width="350"/>
+  <img src="/docs/profit_by_subcategory.PNG" alt="profit_by_subcategory.PNG" width="350"/>
   </p>
 
   - **Sales By Sub-Category**
    <p align="left">
-  <img src="/docs/sales_by_subcategory" alt="sales_by_subcategory.png" width="350"/>
+  <img src="/docs/sales_by_subcategory.PNG" alt="sales_by_subcategory.PNG" width="350"/>
   </p>
 
 
@@ -83,7 +83,7 @@ This looks at the *percentage* of orders that come back.
 
   - **Return Rate**
    <p align="left">
-  <img src="/docs/return_rate_kpi.png" alt="return_rate_kpi.png" width="350"/>
+  <img src="/docs/return_rate_kpi.PNG" alt="return_rate_kpi.PNG" width="350"/>
   </p>
 
 
@@ -94,7 +94,7 @@ While the *rate* is important, the *volume* impacts logistics. This visual track
 *   **Trend:** Compares the raw number of returns this year vs. last year on a monthly basis, helping the warehouse team anticipate workload.
   - **Return Volume**
    <p align="left">
-  <img src="/docs/return_kpi.png" alt="return_kpi.png" width="350"/>
+  <img src="/docs/return_kpi.PNG" alt="return_kpi.PNG" width="350"/>
   </p>
 
 ### 🔹 Returns by Sub-Category
@@ -104,12 +104,12 @@ Which specific products are failing? This visual breaks down both the **Number o
 
   - **Return-Rate By Sub-Category**
    <p align="left">
-  <img src="/docs/return_rate_by_subcategory.png" alt="return_rate_by_subcategory.png" width="350"/>
+  <img src="/docs/return_rate_by_subcategory.PNG" alt="return_rate_by_subcategory.PNG" width="350"/>
   </p>
   
   - **Return By Sub-Category**
    <p align="left">
-  <img src="/docs/return_by_subcategory.png" alt="return_by_subcategory.png" width="350"/>
+  <img src="/docs/return_by_subcategory.PNG" alt="return_by_subcategory.PNG" width="350"/>
   </p>
 ---
 
@@ -129,12 +129,12 @@ This dashboard is not a static PDF. It is built to be explored:
 
   - **Sales KPIs Dashboard**
    <p align="left">
-  <img src="/docs/sales_kpis_dashboard.png" alt="sales_kpis_dashboard.png" width="500"/>
+  <img src="/docs/sales_kpis_dashboard.PNG" alt="sales_kpis_dashboard.PNG" width="500"/>
   </p>
 
   - **Returns KPIs Dashboard**
    <p align="left">
-  <img src="/docs/returns_kpis_dashboard.png" alt="returns_kpis_dashboard.png" width="500"/>
+  <img src="/docs/returns_kpis_dashboard.PNG" alt="returns_kpis_dashboard.PNG" width="500"/>
   </p>
 
 
