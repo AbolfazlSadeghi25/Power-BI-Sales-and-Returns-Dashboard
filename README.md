@@ -1,6 +1,6 @@
 # 🛒 Retail Performance & Returns Analysis Dashboard
 
-![Power BI](dashboard/MIS_Project(BI).pbix)
+![Power BI](/dashboard/MIS_Project(BI).pbix)
 
 ## 📖 Executive Summary
 
