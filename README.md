@@ -148,4 +148,4 @@ The project utilizes a Star Schema approach in Power BI:
 *   **DAX Measures:** Extensive use of Time Intelligence functions (e.g., `SAMEPERIODLASTYEAR`, `CALCULATE`, `DIVIDE`) to generate dynamic YoY growth percentages.
 
 ---
-*Created by [Abolfazl Sadeghi]*
+*Created by Abolfazl Sadeghi*
